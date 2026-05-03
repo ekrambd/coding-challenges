@@ -39,4 +39,4 @@
 24. Rotate Array — 189 = Done
 25. Maximum Subarray — 53 = Done
 26. Second Largest number = t
-27. Valid Anagram — 242  = t
+27. Valid Anagram — 242  = Done
